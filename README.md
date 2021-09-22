@@ -1,16 +1,17 @@
-## Hello mate 👋
+## Hello bro 👋
 ---
 
-I'm Jonas Gomes. <img height="16" width="24" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg"/> Brazilian, from Juiz de Fora MG, 23y, I have been studying development since was 12y and acting professionally as full-stack developer for about 2 years, than specialized in mobile front-end.
-I am interested in traveling around the world as a digital nomad and then in immigrating to Portugal <img height="16" width="24" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/255px-Flag_of_Portugal.svg.png"/>
+I'm Jonas Gomes. <img height="16" width="24" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg"/> Brazilian, from Juiz de Fora MG, 23y, I have been studying development since was 12y and acting professionally as a full-stack developer for about 4 years. In the last 2 years, I specialized front-end especially in mobile development. I had the wonderful experience traveling to Porto, Portugal <img height="16" width="24" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/255px-Flag_of_Portugal.svg.png"/>during an interchange and studied there for a month.
+I am interested in traveling around the world as a digital nomad then live in another country.
+
 
 Life is a journey, not a competition, let's grow up together :wink:
 ### Some achievements and experiences
-- [x] - Photoshop and illustrator course at Gracom School of Visual effects
+- [x] - 6 months as support at AuE Solutions
 
-- [x] - 6 months as trainee at Gracom School of Visual effects
+- [x] - 2 years working as a full-stack developer at App4All
 
-- [x] - Studied production engineering for 3 periods at FTC - Faculdade de Tecnologia e Ciências
+- [x] - 5 weeks working at Instituto Superior de Engenharia do Porto
 
 - [x] - Bachelor graduation in Information System completed at IF Sudeste MG - Campus Juiz de Fora
 
@@ -21,9 +22,7 @@ Life is a journey, not a competition, let's grow up together :wink:
 ### :incoming_envelope: Talk to me
 
 - [<img height="16" width="16" src="https://unpkg.com/simple-icons@latest/icons/linkedin.svg" /> Linkedin](https://www.linkedin.com/in/jjthegomes/)
-- [<img height="16" width="16" src="https://unpkg.com/simple-icons@latest/icons/twitter.svg" /> Twitter](https://twitter.com/straby17/)
-- [<img height="16" width="16" src="https://unpkg.com/simple-icons@latest/icons/facebook.svg" /> Facebook](https://www.facebook.com/jonas.gomes98/)
-<!-- - [<img height="16" width="16" src="https://unpkg.com/simple-icons@latest/icons/instagram.svg" /> Instagram](https://www.instagram.com/jjthegomes/) -->
+
 
 ### :+1: What can I work with
 
@@ -46,14 +45,14 @@ Life is a journey, not a competition, let's grow up together :wink:
 
 ### 😄 I really like to work on
 - Development with technology focus in general
-- Personalized medicine
-- Arduino and all `maker` environment
+- Mobile and UX/UI
+- Internet of Things (wearable)
 
 ### 🔭 What I'm trying to learn/improve
 
 - <img height="16" width="16" src="https://unpkg.com/simple-icons@latest/icons/typescript.svg"/> TypeScript: I can work with but I still learning
-- <img height="16" width="16" src="https://unpkg.com/simple-icons@latest/icons/graphql.svg"/> GraphQL: I had contact, but I want to improve
-- <img height="16" width="16" src="https://unpkg.com/simple-icons@latest/icons/vue-dot-js.svg"/> Vue: Pretty initiant
+- <img height="16" width="16" src="https://unpkg.com/simple-icons@latest/icons/graphql.svg"/> GraphQL: I want to improve
+- <img height="16" width="16" src="https://unpkg.com/simple-icons@latest/icons/vue-dot-js.svg"/> Vue: A short experience in Portugal
 - <img height="16" width="16" src="https://unpkg.com/simple-icons@latest/icons/kubernetes.svg"/> Kubernetes: I want to learn
 
 **Note:** I work in private repositories here and in another versioning platforms (thanks to non-disclosure agreements), thus the heatmap below can be seriously affected :stuck_out_tongue_winking_eye:
