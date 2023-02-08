@@ -5,7 +5,6 @@ I'm Jonas Gomes. <img height="16" width="24" src="https://upload.wikimedia.org/w
 I am interested in traveling around the world as a digital nomad then live in another country.
 
 
-Life is a journey, not a competition, let's grow up together :wink:
 ### Some achievements and experiences
 - [x] - 6 months as support at AuE Solutions
 
