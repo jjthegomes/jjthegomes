@@ -1,12 +1,14 @@
 ## Hello bro 👋
 ---
 
-I'm Jonas Gomes. <img height="16" width="24" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg"/> Brazilian, from Juiz de Fora MG, 25y, I have been studying development since was 12y and acting professionally as a full-stack developer for about 4 years. In the last 2 years, I specialized front-end especially in mobile development. I had the wonderful experience traveling to Porto, Portugal <img height="16" width="24" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/255px-Flag_of_Portugal.svg.png"/>during an interchange and studied there for a month.
-I am interested in traveling around the world as a digital nomad then live in another country.
+I'm Jonas Gomes. <img height="16" width="24" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg"/> Brazilian, from Juiz de Fora MG, 26y, I have been studying development since was 12y and acting professionally as a full-stack developer for about 6 years. In the last 4 years, I specialized front-end especially in mobile development. I had the wonderful experience traveling to Porto, Portugal <img height="16" width="24" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/255px-Flag_of_Portugal.svg.png"/>during an interchange and studied there for a month.
 
 
 ### Some achievements and experiences
-- [x] - 6 months as support at AuE Solutions
+
+- [x] - 3 years working as a frontend developer at Dig Insights
+
+- [x] - 3 years working as a frontend developer at Reload Health
 
 - [x] - 2 years working as a full-stack developer at App4All
 
